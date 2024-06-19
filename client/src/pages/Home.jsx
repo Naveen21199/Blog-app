@@ -12,9 +12,9 @@ function Home() {
               data-aos-delay="200"
             >
               <h1>Better Platform For Your Creativity</h1>
-              <h2>I am full stack developer making websites with Bootstrap</h2>
+              <h2>A awesome platform for creating blogs</h2>
               <div className="d-flex justify-content-center justify-content-lg-start">
-                <Link to="/blogs" className="btn-get-started scrollto">
+                <Link to="/login" className="btn-get-started scrollto">
                   Get Started
                 </Link>
               </div>
